@@ -1,4 +1,4 @@
 /**
-* Thsi si package file
+* This is package file.
 */
 package com.example;

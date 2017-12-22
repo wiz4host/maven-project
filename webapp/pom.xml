@@ -12,7 +12,7 @@
 
   <artifactId>HelloWorld</artifactId>
   <packaging>war</packaging>
-  <name>HelloWorld</name>
+  <name>ROOT</name>
   <description>HelloWorld.</description>
 
   <build>

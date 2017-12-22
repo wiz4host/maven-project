@@ -10,7 +10,6 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>HelloWorld</artifactId>
   <packaging>war</packaging>
   <name>ROOT</name>
   <description>HelloWorld.</description>
@@ -42,4 +41,5 @@
   </dependencies>
 
   <url>/</url>
+  <artifactId>ROOT</artifactId>
 </project>
